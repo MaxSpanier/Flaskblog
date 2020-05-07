@@ -1,1 +1,2 @@
-D:\Scripts\Flask_Website\app\venv
+app/venv
+app/__pycache__/*
